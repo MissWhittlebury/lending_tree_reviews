@@ -7,10 +7,8 @@
 
 
 ## Running Integration Tests
-NOTE: You must have pytest installed
+NOTE: Either install pytest or use your virtual environment from above
 ```
 cd tests
 ./run_integration_tests.sh
 ```
-
-NOTE: Did not have time to create unit tests
